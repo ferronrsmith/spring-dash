@@ -1,4 +1,4 @@
-ArangoDB-DocSet
+Spring Framework-DocSet
 =================
 
 [Spring Docsets](https://spring.io/projects/) DocSet for [Dash](http://kapeli.com) & [Zeal](https://zealdocs.org/).
