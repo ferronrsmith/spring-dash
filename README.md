@@ -1,8 +1,14 @@
 ArangoDB-DocSet
 =================
 
-[ArangoDB](https://www.arangodb.com/) DocSet for [Dash](http://kapeli.com) & [Zeal](https://zealdocs.org/).
+[Spring Docsets](https://spring.io/projects/) DocSet for [Dash](http://kapeli.com) & [Zeal](https://zealdocs.org/).
 
+
+##### The Repository contains docset for : (These are all reference documentations and NOT JAVA API-DOCS)
+
+1. Spring Framework
+1. Spring REST Docs
+1. Spring Security
 
 
 ### Requirements
@@ -15,6 +21,6 @@ ArangoDB-DocSet
 
 	$ python arango_dash.py
 
-### Feed [(Online)](https://raw.githubusercontent.com/ferronrsmith/arango-dash/master/ArangoDB.xml)
+### Feed [(Online)](https://raw.githubusercontent.com/ferronrsmith/spring-dash/master/Spring_Framrwork_Reference.xml)
 
-	dash-feed://https://raw.githubusercontent.com/ferronrsmith/arango-dash/master/ArangoDB.xml
+	dash-feed://https://raw.githubusercontent.com/ferronrsmith/spring-dash/master/Spring_Framrwork_Reference.xml
