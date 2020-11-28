@@ -11,6 +11,9 @@ Spring Framework-DocSet
 |  Spring Framework | 5.3.1   | 
 |  Spring Security   | 5.3.1 | 
 |  Spring REST Docs   | 2.0.5 | 
+|  Spring REST Docs   | 2.0.5 | 
+|  Spring Data JPA   | 2.4.1 | 
+|  Spring Data Elasticsearch   | 4.1.1 | 
 
 
 

@@ -42,7 +42,7 @@ def main(argv):
                 name = re.sub("\n\s+", " ", tag.text.strip())
                 if len(name) > 0:
                     path = re.sub("(\./)", "", tag.attrs['href'])
-                    if "footnote" not in path:
+                    if "footnote" not in path and "http" not in path and "javadoc-api" not in path:
                         path = folder + "/" + path
                         if path.split('#')[0] not in ('index.html', 'biblio.html', 'bookindex.html'):
                             cur.execute('INSERT OR IGNORE INTO searchIndex(name, type, path) VALUES (?,?,?)',
