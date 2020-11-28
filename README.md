@@ -6,9 +6,12 @@ ArangoDB-DocSet
 
 ##### The Repository contains docset for : (These are all reference documentations and NOT JAVA API-DOCS)
 
-1. Spring Framework
-1. Spring REST Docs
-1. Spring Security
+| Project       | Version     | 
+| :------------- | :----------: | 
+|  Spring Framework | 5.3.1   | 
+|  Spring Security   | 5.3.1 | 
+|  Spring REST Docs   | 2.0.5 | 
+
 
 
 ### Requirements
