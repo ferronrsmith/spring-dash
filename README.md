@@ -26,11 +26,6 @@ Spring Framework-DocSet
 * Python 2.7+
 * Git
 
-
-### Usage
-
-	$ python arango_dash.py
-
 ### Feed [(Online)](https://raw.githubusercontent.com/ferronrsmith/spring-dash/master/Spring_Framrwork_Reference.xml)
 
 	dash-feed://https://raw.githubusercontent.com/ferronrsmith/spring-dash/master/Spring_Framrwork_Reference.xml
