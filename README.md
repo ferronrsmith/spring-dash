@@ -14,6 +14,10 @@ Spring Framework-DocSet
 |  Spring REST Docs   | 2.0.5 | 
 |  Spring Data JPA   | 2.4.1 | 
 |  Spring Data Elasticsearch   | 4.1.1 | 
+|  Spring Data JDBC   | 2.1.1 | 
+|  Spring Data MongoDB   | 3.1.1 | 
+|  Spring Data Redis   | 2.4.1 | 
+|  Spring Data REST   | 3.4.1 | 
 
 
 

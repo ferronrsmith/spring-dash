@@ -1,8 +1,8 @@
 <entry>
-    <version>2.0.5</version>
+    <version>4.1.1</version>
     <ios_version>1</ios_version>
-    <url>https://github.com/ferronrsmith/spring-ref-dash/releases/download/2.0.5/Spring_REST_Reference.tgz</url>
+    <url>https://github.com/ferronrsmith/spring-ref-dash/releases/download/4.1.1/Spring_Data_Elasticsearch_Reference.tgz</url>
      <other-versions>
-        <version><name>2.0.5</name></version>
+        <version><name>4.1.1</name></version>
      </other-versions>
 </entry>
