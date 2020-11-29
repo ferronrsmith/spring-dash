@@ -52,5 +52,5 @@ crashlytics-build.properties
 fabric.properties
 *.tgz
 *.zip
-docs.spring.io
+/docs.spring.io/
 venv
